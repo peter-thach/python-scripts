@@ -10,7 +10,7 @@ else:
 
 webbrowser.open('http://www.google.com/maps/place/' + address)
 
-# Remove the above line and uncomment the below line after replacing 'yourAddress' with your address to obtain the directions to
-# address from your address instead. 
+# Remove the above line and uncomment the below line after replacing 'yourAddress' with your address (e.g. 1600+Amphitheatre+Parkway+Mountain+View,+CA) 
+# to obtain the directions to address from your address instead. 
 
-# webbrowser.open('http://www.google.com/maps/dir/yourAddress/ + address)
+# webbrowser.open('http://www.google.com/maps/dir/yourAddress/' + address)
